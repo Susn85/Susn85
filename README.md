@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello everyone 👋
 
 <!--
 **Susn85/Susn85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
